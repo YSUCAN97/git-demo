@@ -11,6 +11,5 @@ hello yisuoyanyu!hello git
 hello yisuoyanyu!hello git
 hello yisuoyanyu!hello git
 hello yisuoyanyu!hello git
-hello yisuoyanyu!hello git
 hello yisuoyanyu!hello git master test
-hello yisuoyanyu!hello git
+hello yisuoyanyu!hello git hot-fix test
